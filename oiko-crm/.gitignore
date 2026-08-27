@@ -1,0 +1,7 @@
+**/apache-tomcat-10.1.36/
+target/
+.idea/
+*.iml
+.mvn/wrapper/maven-wrapper.jar
+application-local.properties
+.env
